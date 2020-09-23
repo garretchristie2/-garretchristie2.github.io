@@ -1,1 +1,2 @@
 # Garret's GIS Project Portfolio
+I am a student at Colorado Mountain College concentrating in Natural Resource Management and Geographic Information Systems. I believe deeply in the power of data driven technologies to enhance the way we think and how we visualize the world around us. As a Natural Resource Management student, I am thoroughly convinced geospatial technologies in conjunction with other methods can help us solve many of the environmental problems we experience in our world today.  
